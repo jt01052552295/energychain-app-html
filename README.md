@@ -16,7 +16,4 @@ npm install -D typescript-plugin-css-modules
 npm i classnames
 ```
 
-수정함.
-test
-main
-test
+재수정
