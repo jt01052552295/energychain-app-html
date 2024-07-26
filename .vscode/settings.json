@@ -6,6 +6,6 @@
             "savePath": "/public/css"
         }
     ],
-    "liveSassCompile.settings.includeItems": ["src/scss/**/*.scss"],
-    "liveSassCompile.settings.excludeList": ["**/node_modules/**", "src/components/**/*.scss"]
+    "liveSassCompile.settings.includeItems": [],
+    "liveSassCompile.settings.excludeList": ["**/*.scss"]
 }
